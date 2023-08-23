@@ -1,6 +1,6 @@
 export default defineAppConfig({
   docus: {
-    title: 'The Frogge Game',
+    title: 'Frogge.games documentation site',
     description: 'A unique multiplayer experience that blends survival gameplay, token incentives, and blockchain technology.',
     image: 'https://www.frogge.finance/assets/logo-8f1a76eb.png',
     socials: {
