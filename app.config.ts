@@ -1,15 +1,15 @@
 export default defineAppConfig({
   docus: {
-    title: 'Docus',
-    description: 'The best place to start your documentation.',
+    title: 'The Frogge Game',
+    description: 'A unique multiplayer experience that blends survival gameplay, token incentives, and blockchain technology.',
     image: 'https://user-images.githubusercontent.com/904724/185365452-87b7ca7b-6030-4813-a2db-5e65c785bf88.png',
     socials: {
-      twitter: 'nuxt_js',
-      github: 'nuxt-themes/docus',
+      twitter: 'frogge.finance',
+      github: 'frogge-game/whitepaper',
       nuxt: {
         label: 'Nuxt',
         icon: 'simple-icons:nuxtdotjs',
-        href: 'https://nuxt.com'
+        href: 'https://frogge.games'
       }
     },
     github: {
