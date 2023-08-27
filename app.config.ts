@@ -4,7 +4,7 @@ export default defineAppConfig({
     description: 'A unique multiplayer experience that blends survival gameplay, token incentives, and blockchain technology.',
     image: 'https://www.frogge.finance/assets/logo-8f1a76eb.png',
     socials: {
-      twitter: 'frogge.finance',
+      twitter: 'froggefinance',
       github: 'frogge-game/whitepaper',
       nuxt: {
         label: 'Nuxt',
